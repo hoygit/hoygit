@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @hoygit
+- 👀 I’m interested in creativity and innovation
+- 🌱 I’m currently learning Cloud computing and ML
